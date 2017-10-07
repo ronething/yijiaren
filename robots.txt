@@ -1,0 +1,13 @@
+# hexo robots.txt
+User-agent: * 
+Allow: /
+Allow: /archives/
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: https://ronething.github.io/yijiaren/sitemap.xml
+Sitemap: https://ronething.github.io/yijiaren/baidusitemap.xml
