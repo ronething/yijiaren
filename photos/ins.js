@@ -1,4 +1,4 @@
-
+<script src="\yijiaren\assets\js\APlayer.min.js"> </script>
 /******/
 (function(modules) { // webpackBootstrap
     /******/ // The module cache
